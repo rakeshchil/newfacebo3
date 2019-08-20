@@ -1,0 +1,351 @@
+rakeshQA=defects preventive
+QC=defects dectitive
+github username password rakeshchil rakesh445
+jenkins username password rakeshchil admin7
+
+"https://github.com/rakeshchil/inetbanking_v1.git"  githuburl
+
+"https://github.com/pavanoltraining/nopcommerce_v001.git"  sdet
+
+git init
+git remote add origin "url"
+git status
+git add -A
+git config --global user.name ""
+git config --global user.email ""
+git commit -m "messages"
+git push -u origin master
+
+java -jar selenium-server-standalone-2.53.1.jar -role hub
+
+java -jar -Dwebdriver.chrome.driver="pathofchromedriver" selenium-server-standalone-2.53.1.jar -role -node -hub http://192.168.2.14:4444/grid/register
+
+mysql vinayaka
+
+Developed the Automation Test Scripts in Selenium WebDriver using Java based on the design pattern
+Page Object Model for reusability.
+? Prepared Test Cases using Data Driven, Hybrid, Modular, and Keyword Driven Framework in
+WebDriver.
+? Prepared XML and Excel files for collection of data and Element Locators using object repository,
+used this in test suite with the help of APACHE POI library files.
+? Created Maven Project using Maven build automation tool to create dependencies like wars, jars.
+Usage of plugins for invoking XML files.
+? Triggered POM.XML files using Jenkins, Continuous Integration Tool to generate reports and to trigger
+periodically.
+? Used GitHub, source code management tool for code re-usage, high portability extending scope of
+Automation Testing
+Reviewing the Test Reports using TestNG framework.
+? Project is under Agile environment, I attended daily standup meetings, provided daily status on manual
+and automation test results. Attended sprint plan meetings to review the user stories and story points.
+? Responsible for developing and executing of manual test plan and test cases for Web Services SOAP
+and REST API testing.
+? Performed WebServices automation testing using SOAPUI pro.
+? Validated WebServices SOAP request and response XML and RESTful Service Calls using SOAPUI
+tool.
+? Validated WSDL Files, XML Schema, and WebServices End Points for each environment.
+? Added assertions in response xml to validate the output of web service calls.
+? Utilized multiple validation rules, property transfers, Data Gen etc. in SOAPUI tool to validate request
+and response of Web Services.
+? Developed Groovy Script in SOAPUI tool to connect to database for automation of WebServices.
+? Worked with programmers to test the daily builds and reported bugs.
+? Collaborated with development on test automation efforts to ensure that development supports the
+testing solutions.
+? Performed functional, compatibility testing on different browsers like IE, Firefox & Chrome.
+? Performed automation testing using Maven, GIT Hub and Jenkins.
+? Worked with Developers and Quality Assurance associates to identify and implement test suites/test
+cases for diverse projects.
+? Worked in UNIX / Linux to execute shell scripts to upload the dummy data to database.
+? Executed find, grep, ps, kill, find, cp, mv, tail, cd, view, vi etc commands in UNIX/Linux.
+? Tail the log files in UNIX / Linux to debug the issues / bugs.
+? Updated environment setup files as needed in UNIX / Linux.
+? Developed SQL queries and Joins for validating data in Data Base and used Excel and XML files for
+Data Driven Automation testing. Used TOAD tool to connect to database and execute SQL queries.
+? Prepared and executed Test Cases as per System Requirements and User Stories.
+Worked with Team members to develop TEST Plan document.
+? Prepared and execution of test suite using Selenium.
+? Participated in identifying the Test scenarios and designing the Test cases.
+? Performed manual testing on some required modules.
+? Performed various black box testing Methodologies like functional testing and Regression Testing.
+? Defect Tracking and Reporting, logged defects using JIRA tool and reported it to the developer.
+? Developed and executed Test cases, Tracked the status of project using HP Quality Center Test
+management tool.
+Attended daily standup meetings, provided daily status on manual and automation test results.
+? Designed and Developed the Automation Test Scripts using Selenium WebDriver using Java.
+? Reviewed the Test Reports using TestNG.
+? Performed Functional Testing, Data Driven Testing, and Cross Browser Compatibility Testing on
+different browsers like IE, Firefox & Chrome.
+? Developed Test cases using Element Locators and Selenium WebDriver methods.
+? Enhanced Test cases using Java Programming features and TestNG Annotations.
+? Execution of Selenium test suite and developed reports and reported defects.
+? Involved in Retesting and Regression Testing using Selenium WebDriver.
+? Developed SQL queries and Joins to validate the reports.
+? Automated the functionality and interface testing of application using QuickTest Professional.
+? Used checkpoints to check properties of various objects using QuickTest Professional.
+? Executed shell scripts to validate the data, bouncing web and app servers on Linux box.
+? Executed Linux commands, FTP commands to validate the log files while debugging the issues / Root
+cause analysis of the issue.
+? Performed various black box testing methodologies like functional testing manual testing, Regression
+Testing, Smoke Testing, UAT.
+? Prioritized the defects and the severity levels using Quality Center and discussed with the developers to
+resolve the issues.
+Technical Environment: Java, JavaEE, 
+--------------------------------
+gc reddy
+
+To give effective as well as efficient efforts towards attainment of organizational goals with exploring wide scope of knowledge and intelligence. To work in an environment that provides a challenging and rewarding career ensuring a high-level job satisfaction. In the process apart from benefiting my employer, I also expect to learn for my overall development.
+
+Professional Summary:
+
+• 5+ Years of industry experience in the area of Software Testing (Manual and Automation) with a solid understanding of Test Planning, Test Design, Test Execution and Defect Reporting & Tracking.
+
+• Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.
+
+• Well acquainted with all phases of SDLC and STLC.
+
+• Proficient in Test Automation using UFT (Formerly QTP) and Selenium Tools.
+
+• Strong Experience in Automating Web Application Testing using Selenium WebDriver with TestNG framework.
+
+• Strong Experience in Java Programming, Selenium WebDriver, JUnit and TestNG.
+
+• Well versed with Handling Elements in Selenium WebDriver.
+
+• Writing Test cases using Element locators, WebDriver methods, Java programming features and TestNG Annotations.
+
+• Executing Selenium Test Cases and Reporting defects.
+
+• Experience in Data driven Testing, Cross browser testing and Parallel Test execution using Selenium WebDriver, TestNG and selenium Grid.
+
+
+ 
+• Knowledge on LoadRunner Automation tool
+
+• Expertise in implementation of Automation framework using Selenium.
+
+• Strong Experience in ERP, Banking, Financial and Ecommerce Domains.
+
+• Involvement in Test Estimations and Test strategy implementation.
+
+• Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports and Test Summary Report
+
+• Self-motivated, energetic and highly ethical in all work related assignments thus able to immediately contribute to corporate goals and objects
+
+• Good written, communication, interpersonal skills, proven team player with an analytical mind bent to problem solving and delivering solutions.
+
+Education Qualification:
+
+Master Degree in Computer Applications from Osmania University, Hyderabad, Andhra Pradesh with First Division in 2009.
+
+
+• Preparation of the Test Strategy and guiding the team.
+
+• Involvement in the System Test Plan Preparation and Requirements Streamlining.
+
+• Involvement in Preparation of Test Procedures, Test Scenarios, Cases and Test Data.
+
+• Responsible for GUI and Functional Testing, using Black box Testing Techniques.
+
+• Involvement in Test Execution, Results Analyzing and Defect Reporting.• Involvement in RTM Preparation.
+
+• Involved in Automation Infrastructure Development using Selenium.
+
+• Created Test cases Using Element locators and Selenium Webdriver methods.
+
+• Enhanced Test cases using Java programming features and TestNG Annotations.
+
+• Execution of Selenium Test cases and Reporting defects.
+
+• Conducting Data driven testing, cross browser testing and parallel test execution.
+
+• Enhancing the Test Scripts for Global Execution.
+
+• Involvement in solving Environmental problems along with Technical Support People.
+
+• Involved in Regression Testing using Selenium
+
+• Preparation of weekly and monthly status reports.
+
+
+----------------------------------------------------------
+naveen automation labs
+
+
+
+Email:  Test User
+Ph #:
+Current Employer: ABC
+Current Location: Bangalore, India
+Professional Summary:
+·       Over 6 years of experience in Information Technology, with specializing in Software Quality Assurance Testing, proficient in testing on Client/Server and Web based applications and good experience on Core Java, OOPS concepts.
+·       Extensive working experience on all phases of Software Development Life Cycle (SDLC), its methodologies such as Agile, SCRUM and Waterfall Model.
+·       Proficient in the field of Information Technology, with specializing in Software Quality Assurance Testing, proficient in testing on Client/Server and Web based applications.
+·       Proficient in using test automation tools such as Selenium WebDriver/RC/IDE/Grid, Quality Center to develop automation testing scripts for web and client server applications.
+·       Experience with Mobile Automation using Appium automation framework and WebDriver.
+·       Expertise in debugging issues occurred in front end part of web-based application which is developed using HTML5, CSS3, Angular JS, Node.JS and Java. 
+·       Sound knowledge on Junit, TestNG framework for Unit testing, Maven and Ant for Project building tool, Jenkins/Hudson for Continuous Integration. 
+·       Hands on experience in testing the AngularJS based application using Protractor. 
+·       Well versed with various testing stages/levels/phases, testing types, testing techniques and quality work products.
+·       Experience in the development of Data driven, Keyword driven and Hybrid Automation frameworks in Selenium.
+·       Good working experience on SOAP UI for testing and validating various web services used in the application.
+·       Extensive experience in reviewing and analyzing Business Requirements and creating Test Plans, Test Cases, Test Scripts, Test Estimation & Requirement Traceability Matrix.
+·       Professional expertise in Smoke Testing, Backed end Testing, Black-Box Testing, User Acceptance Testing (UAT), Functional Testing, Positive/ Negative Testing, System Testing, Regression Testing, GUI Software Testing, Ad-hoc Testing, Cross Browser/ Cross Platform Testing, UI Validation, WebServices, Boundary Value Testing.
+·       Sound knowledge on Object Oriented Programming (OOP) concept. Extensively used Java and Ruby for test case automation. Experience in implementing TDD and BDD.
+·       Well versed in different management scenarios like Change Control, Quality Assurance, Defect Tracking, System Integration, and Task Scheduling.
+·       Expert using open source bug tracking tool JIRA, Quality Center, BugZilla & IBM Rational Team Concert (RTC).
+·       Excellent experience in troubleshooting software applications for business functions in major areas of the business and enterprise-wide.
+·       Ability to adapt to new environment quickly, strong team player, good communication, good analytical and computation skills, enthusiastic learner, confident, sincere and committed.
+·       Outstanding communicator with extensive experience in customer service as well as ability to identify, develop and enhance client relationships
+
+TECHNICAL SKILLS:
+Testing Tools
+Selenium IDE/RC/WebDriver/GRID, Quick Test Pro (QTP), Test Link, Test Manager, Jbehave, Cucumber, Appium
+Languages
+JAVA, HTML, XML, PL/SQL
+Web Technologies
+HTML, XML, CSS, DHTML, Angular JS, Node.JS
+Scripting
+Python, JavaScript
+IDE
+Eclipse, SQL Developer
+Test Framework
+Junit, TestNG, Data Driven Framework
+Web Debugging Tool
+XPath, Firepath, Firebug
+Build Tool
+Ant, Maven
+Processes
+Agile-Scrum, Waterfall
+Bug Tracking Tools
+JIRA, Quality Center (QC), BugZilla & IBM Rational Team Concert (RTC)
+Continuous Integration Tools
+Jenkins, Hudson, Cruise Control
+Version Control
+ SVN, GIT 
+Data Bases
+MS Access, Oracle
+Operating Systems
+Windows (XP, Vista & 7, 8) Linux, Mac
+
+Professional Experience:
+Gordon Food Service (GFS), Grand Rapids, MI                                                                                            May 2016 – Till Date                  
+The main goal for the development of this project was to build to Data Warehouse for the expansion and enhancement of the underlying data storage system for incoming sales/transactions data. This has achieved Enhanced flexibility in selecting multiple data points considering various internal dimensions such as Regions, Platforms, Customer and Time along with allowing full customization of the complete consolidated reports at the local level. 
+Role: QA Automation Engineer (Selenium)
+Responsibilities
+·       Gathered requirements documents such as business requirements and design document and other related documents.
+·       Reviewed the Test Basis, designed and documented Test Strategies, Test Plan, Test Cases and executed test cases.
+·       End to End Testing of the complete website which was developed using Angular.JS, JavaScript, HTML5, CSS3 and other web technologies.
+·       Responsible for writing and maintain Selenium WebDriver scripts for regression and functional testing using data driven framework.
+·       Used Protractor which is and End-to-End Framework testing for AngularJS Web Applications. 
+·       Developed test code in Java language using Eclipse, IDE and TestNG framework.
+·       Setup the Automation framework using Selenium to run test cases in multiple browsers and platforms
+·       Worked on the Android module of the project where I was responsible for automating the app using Appium with python. 
+·       Responsible for identifying test cases for manual and Automation with Selenium WebDriver for Smoke Test, Functional and Regression Tests.
+·       Involved in writing automated scripts for Angular.JS application using Protractor and Java.
+·       Involved in design and implementation of Selenium WebDriver automation framework for smoke and regression test suites (TestNG and Maven).
+·       Involved in testing the application utilizing the Scrum (Agile) methodology.
+·       Involved on Cucumber testing and defined the test scenarios and created the test cases in Test Manager.
+·       Involved in designing of automation framework to be used in UI testing with Selenium.
+·       Execute browser compatibility and regression tests using Selenium WebDriver for testing UI for every new build release.
+·       Created Python scripting to test REST API functionality for regression setup. 
+·       Performed functional tests using Selenium WebDriver with data driven framework and documented final results in a database.
+·       Developed Python scripts to automate the test cases.
+·       Used the Firebug to inspect the XPath of the web elements and Eclipse IDE for Java development.
+·       Identified, Reported and Tracked Defects using Quality Center test management tool.
+·       Manually tested, verified and validated that the product meets user requirements.
+·       Developed and executed SQL queries to verify the proper insertion, deletion and updates into the Oracle supporting tables and cubes.
+·       Performed SOA / web services testing using SOAP UI; wrote adaptors to test / invoke web services.
+·       Reviewed database test cases according to assigned Requirements to validate reports by retrieving data with complex SQL queries from oracle database.
+·       Performed End-to-End testing of database to check data integrity using SQL queries.
+·       Assisted QA lead in documenting User Acceptance Test report and reporting defect resolution.
+Environment: Selenium WebDriver, Java, Python, TestNG, Angular JS, Protractor, LoadRunner, Jenkins, Cucumber, Agile, SQL, Maven, Appium, DHTML, SOAP UI, XPath, Firebug, Eclipse, Quality Center HTML, GitHub, Windows 7.
+
+Sun Life Financial, Windsor, CT                                                                                                                          Jul 2014 – Apr 2016                                             
+This project was to upgrade the automation of Mortgage loan Process beginning with customer initiation to the title transfer. It involved developing a risk analysis and modeling system for the collateral pools that has been purchased and securitized. It was intended to help the business users to structure the securities based on mortgage pool characteristics. Credit Risk and Prepayment Risk could be assessed and the system could also determine loss provisions based on the expected range of loss estimated by foreclosure frequencies and loss severity of the mortgages. Implement the trade surveillance requirements. This project followed Agile Scrum methodology.
+Role: QA Automation Engineer
+Responsibilities:
+•      Involved in test cases review by development team, product management and modified the test cases based on their feedback.
+·       Responsible for planning, executing and managing the UI automation scripts written in AngularJS using Protractor Testing Framework.
+·       Drafted Test Plan which included testing objectives, testing phases, scenarios and test environment after a thorough analysis of the business rules.
+·       Developed Automation framework using Selenium Web Driver.
+·       Established the Environment set up for Mobile Automation using Appium Tool.
+·       Utilize CSS selectors, IDs, and XPaths to locate elements on iOS and Android views, and Web pages, and use Protractor for AngularJS web pages and Implemented Jasmine as a testing framework with WebDriverJS in Protractor.
+·       Performed functional testing to identify various critical points in the application and automated it by using Selenium Web-Driver with TestNG.
+·       Created and enhanced numerous test scripts to handle changes in the objects, in the tested application’s GUI and in the testing environment using Selenium WebDriver.
+·       Involved in writing automated scripts for Angular JS application using protractor and Java scripts and performed manual testing in physical devices emulator and IOS simulator. 
+·       Developed automation framework for Selenium WebDriver in Modular Framework model.
+·       Tested applications developed in Java with J2EE framework.
+·       Used Selenium WebDriver for writing test scripts for regression test coverage.
+·       Executed the test plans on Mobile (IOS & Android) as per requirements using Appium.
+·       Design & Develop data driven framework using Selenium WebDriver, TestNG and Apache POI API.
+·       Create scripts Python for new functionalities and update the existing scripts for upgraded functionalities. 
+·       Created Selenium web-driver automation scripts using Python to validate functionality on various browsers.
+·       Developed and Implemented automation using Selenium WebDriver and Java. Used Eclipse IDE to develop & debug the code.
+·       Used Maven to build and run the Selenium automation framework. Once the script got over, framework used to send the automation reports over email.
+·       Involved in the Continuous Integration of the automation framework with Jenkins.
+·       Integrated the test suites to Jenkins to execute them automatically after every successful deployment.
+·       Worked on Data Driven Framework and MVC for Automation test scripts.
+·       Implemented Selenium GRID for compatibility testing.
+·       Used XPath and DOM to work with dynamic and static objects in Selenium.
+·       Performed functional testing of SOAP and RESTFUL Web Services using SOAP UI Tool.
+·       Involved in testing Web services and XML with tool called SOAP UI and  using this tool to locate WSDL file on internet, create Test cases and run them
+·       Validated SOAP responses by using assertions like XPath match, schema compliance, contains, SOAP fault etc.
+·       Used Git as code repository and Code Collaborator to manage code reviews.
+·       Designed data-driven testing framework in Selenium and captured data dynamically from web controls.
+·       Created manual test cases, reviewed with different stakeholders to validate the functionality.
+·       The entire Ruby scripting done using Cucumber framework Wrote and executed SQL queries to verify the data updates to various tables and ensure data integrity.
+·       Worked with SOA architecture which includes Soap Web Service and RestFul Web Service Testing Conducted backend testing using SQL queries to validate data for database.
+·       Attend the BRI (Business Requirement Identification) meeting to understand the business Requirements.
+·       Edit and debug tests using Selenium Participated in meeting, teleconferences walk through with the development team, QA manager and Project manager (PM).
+·       Coordinated with technical support associates to fix proprietary software issues
+·       Verified, edited and update test data in new or existing systems before testing.
+Environment: Java, Selenium WebDriver, Jenkins, Maven, Angular JS, Protractor, Cucumber, Python, SOAP UI, RestFul, XPath, Eclipse, HTML, CSS, JavaScript, XML, Appium, Ruby, Quality Center, SQL, agile, Oracle and Windows.
+
+First Republic Bank, San Francisco, CA                                                                                                          Feb 2012 – Jun 2014
+First Republic Bank provides corporate, investment, retail banking, wealth management and consumer lending services. Project involved Web based application which is used by front office users for tracking different service requests made by clients such as address change, consumer credit, rate exception, funds transfer etc. It is used to submit private banking credit applications, used by private bankers for submitting different product type requests like secured loan, unsecured loan etc in a credit application.
+Role: QA Engineer
+Responsibilities:
+·       Involved in developing test plan, test strategies, test scenarios, test scripts and test steps based on Business and System Use Cases.
+·       Actively participated in scrum meetings and reviews.
+·       Performed Functional tests using Selenium WebDriver with data driven framework.
+·       Executed Selenium tests for automation testing of the web application using Selenium Web Driver.
+·       Followed Test Driven Development (TDD) as much as possible and written test cases using TestNG for every relevant class.
+·       Wrote highly efficient and maintainable Java code to develop Page Objects using the Selenium Framework.
+·       Created test cases, test plans, tested API’s, wrote TestNG test cases, executed code coverage, wrote automation scripts using Selenium, executed database queries for testing purposes and led different projects in the shipping and checkout domain.
+·       Performed Data driven testing using Selenium WebDriver and TestNG functions which reads data from property and XML files.
+·       Used Maven to build and run the Selenium automation framework. Once the script got over, framework used to send the automation reports over email.
+·       Developed Maven Build scripts to run Sanity Test scripts developed in Selenium WebDriver.
+·       Created automation framework in Selenium WebDriver using behavior driven approach like Cucumber.
+·       Used Maven for building the WebDriver project. Integrated with Continuous Integration tools Jenkins for running test on nightly basis automatically.
+·       Developed test harness for WebServices automated testing by means of SOAP UI and ANT.
+·       Involved in testing SOA with RESTful/SOAP Web Services. Created entire architecture for backend testing internal and third party API using Test Complete and SOAP UI.
+·       Performed functional testing of Web services testing using SOAP UI.
+·       Created Data Driven tests that randomized the test data for testing the AUT using Excel file.
+·       Used XPath and DOM to work with dynamic and static objects in Selenium.
+·       Performed Smoke, Functional, Regression and Integration testing.
+·       Identified and reported bugs using defect tracking tool HP Quality Center and presented bug reports for weekly status updates.
+·       Performed data accuracy, data validation and data integrity testing by querying the database using SQL queries to check the data table on server.
+·       Conducted backend testing using SQL queries to validate data for database.
+·       Participated in Stand-up meeting, walkthrough meeting, weekly automation meeting with all other QA, weekly assessment meetings with business analysts and developers.
+Environment: Java, Selenium WebDriver, Eclipse, TestNG, Maven, Jenkins, Cucumber, Page Object Model (POM),, DataDriven Framework, Quality Center, HTML, CSS, JavaScript, SOAP UI, Web Service, XPATH, WSDL, XML, Oracle, SQL, Linux, Windows.
+
+Hudson City Savings Bank, Paramus, NJ                                                                                        Dec 2010 – Jan 2012
+This project is an online banking application consisting of various modules like personal Banking, Loan Locking, Pricing, Withdraw, Extend Load Expiry, Funding, Closing, Mortgages, Re-finance, Investment banking, stocks, bonds, Mutual funds, insurance and portfolio/wealth management. It also generates reports based on clients’ loan status like loans missing, collateral documents, loans purchased, loans pending settlement review, loans not cleared for settlement.The personal banking module consists of managing Checking and Savings accounts, balance transfers, bill payments, deposit methods and individual retirement accounts and money transfer. FMS (Funds management system) provides a single source of financial information for the Fund Managers.
+Role: Manual Tester
+Responsibilities:
+·       Analyzed business requirements, documented business requirements specifications, wrote Test Plans, Test Cases.
+·       Worked with development team to understand technical design and architecture for test planning.
+·       Worked under waterfall methodology.
+·       Executed Manual and Automated tests and reports defects by running automated tests; executing manual tests; reviewing results of all tests and reporting anomalies into the defect tracking database; verifying the resolution of all defects for an assigned project. 
+·       Prepared traceability matrix to ensure the adequate coverage of the test cases.
+·       Prepared required documentation for testing signoff by various parties as required by the project plans.
+·       Assigned, Monitored and Tracked Tasks of Team Members.
+·       Updated Test Plans and Test Cases periodically to manage changes in requirements.
+·       Uploaded test cases executed test cases and logged defects in Mercury Quality Center.
+·       Maintained Traceability Matrix to track the requirements to the test cases to ensure complete test coverage in the Quality Center.
+·       Connected to database to Query the database using SQL for data verification and validation.
+·       Performed back end testing on oracle database by writing SQL quarries.
+·       Created SQL views to aggregate data before moving to targeted database from legacy database to simulate results.
+·       Interacted closely with developers regarding defects, participated in tracking, reviewing and analyzing bugs.
+·       Worked extensively with business users to define scope and prepared ‘Documents of Understanding’ for various change requests by analyzing the feedback from user groups.
+Environment: Java, Manual Tester, Quality Center, MS Visio, HTML, Java Script, Oracle, VSS, UNIX.
+

@@ -1,0 +1,15 @@
+what is the difference between ischaracter() and isalphabet() method?
+
+Strings-1
+Java OOPS-1
+Java Basics-1
+Java concepts-1
+Listeners-1
+Log4j-1
+Seleniumgrid-1
+Datadriven framework-1
+Keyworddriven framewok-2
+Hybrid framework-2
+Maven-1
+Ant-1
+Jenkins-1
