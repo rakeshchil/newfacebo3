@@ -11,6 +11,7 @@ git init
 git remote add origin "url"
 git status
 git add -A
+before doing commit first time we need to execute below two commands
 git config --global user.name ""
 git config --global user.email ""
 git commit -m "messages"
@@ -18,7 +19,7 @@ git push -u origin master
 
 java -jar selenium-server-standalone-2.53.1.jar -role hub
 
-java -jar -Dwebdriver.chrome.driver="pathofchromedriver" selenium-server-standalone-2.53.1.jar -role -node -hub http://192.168.2.14:4444/grid/register
+java -jar -Dwebdriver.chrome.driver="pathofchromedriver" -jar selenium-server-standalone-2.53.1.jar -role node -hub http://192.168.2.14:4444/grid/register
 
 mysql vinayaka
 
